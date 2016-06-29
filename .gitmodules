@@ -1,0 +1,3 @@
+[submodule "Mono.Security/mono"]
+	path = Mono.Security/mono
+	url = https://github.com/mono/mono.git
